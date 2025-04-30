@@ -1,6 +1,5 @@
 #!/bin/bash
 
-
 # Check if the correct number of arguments is provided
 if [ $# -ne 2 ]; then
     echo "Error: Missing parameters. Usage: $0 <writefile> <writestr>"
