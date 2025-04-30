@@ -9,7 +9,6 @@ fi
 writefile=$1
 writestr=$2
 
-
 # Create the directory path if it doesn't exist
 mkdir -p "$(dirname "$writefile")"
 
